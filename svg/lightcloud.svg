@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128"
    height="128"
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="lightcloud.svg">
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="lightcloud.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -24,19 +24,21 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.9921875"
-     inkscape:cx="64"
-     inkscape:cy="64"
+     inkscape:cx="36.21382"
+     inkscape:cy="64.166884"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:pagecheckerboard="true"
      units="px"
-     inkscape:window-width="948"
-     inkscape:window-height="1020"
+     inkscape:window-width="1920"
+     inkscape:window-height="1038"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#333333" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -54,12 +56,12 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g2865"
-       transform="matrix(0.84110633,0,0,0.84110633,3.7034901,0.52576751)">
+       id="g2865-3"
+       transform="translate(-1.9446593,-1.9446593)">
       <path
          sodipodi:type="star"
          style="fill:#ff6600;stroke-width:0.0710699;image-rendering:auto"
-         id="path28"
+         id="path28-6"
          sodipodi:sides="8"
          sodipodi:cx="18.877993"
          sodipodi:cy="18.877993"
@@ -73,7 +75,7 @@
          d="m 35.546743,18.877993 -5.634006,4.57074 0.751842,7.215846 -7.215846,-0.751842 -4.57074,5.634006 -4.570741,-5.634006 -7.2158461,0.751842 0.7518425,-7.215846 -5.6340065,-4.57074 5.6340065,-4.570741 -0.7518425,-7.2158461 7.2158461,0.7518425 4.570741,-5.6340065 4.57074,5.6340065 7.215846,-0.7518425 -0.751842,7.2158461 z" />
       <circle
          style="fill:#ffcc00;fill-rule:evenodd;stroke-width:0.0755488"
-         id="path10"
+         id="path10-7"
          cx="18.877993"
          cy="18.877993"
          r="11.377083" />
