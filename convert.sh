@@ -48,8 +48,10 @@ convert_icon () {
         fi
 
         dest="$size/$icon.png"
-        echo "$size_src: wrote $dest"
-        convert -resize "${size}x${size}" -background none +set date:create +set date:modify "$size_src" "$dest"
+        (
+            convert -resize "${size}x${size}" -background none +set date:create +set date:modify "$size_src" "$dest"
+            echo "$size_src: wrote $dest"
+        ) &
     done
 }
 
@@ -60,6 +62,7 @@ for icon in "${icons[@]}"; do
     fi
 done
 
+wait
 if [[ $converted -eq 0 ]]; then
     echo "no icons converted!" >&2
     exit 1
