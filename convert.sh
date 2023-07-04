@@ -49,7 +49,7 @@ convert_icon () {
 
         dest="$size/$icon.png"
         echo "$size_src: wrote $dest"
-        convert -size "${size}x${size}" -background none +set date:create +set date:modify "$size_src" "$dest"
+        convert -resize "${size}x${size}" -background none +set date:create +set date:modify "$size_src" "$dest"
     done
 }
 
